@@ -12,8 +12,7 @@ svg {
   fill: #00000000;
   stroke: #8B8B8B22;
   stroke-width: 1px;
-  rx: 6px;
-  ry: 6px;
+
 }
 
 foreignObject {
@@ -49,7 +48,6 @@ tr {
   transform: translateY(500%);
   animation-duration: 1s;
   animation-name: slideIn;
-  animation-function: ease-in-out;
   animation-fill-mode: forwards;
 }
 
